@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.v("aasdf","123");
+        Log.v("aasdf","123");
     }
 }
