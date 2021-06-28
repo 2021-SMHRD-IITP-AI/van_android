@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.v("aasdf","123");
         Log.v("aasdf","123");
+        Log.v("김효민짱","김효민짱");
     }
 }
